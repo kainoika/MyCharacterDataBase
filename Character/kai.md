@@ -29,8 +29,8 @@
 そのせいか飲み会など仕事の付き合いが増えてレッスンの時間が取れないのが最近の悩み。
 
 # ギャラリー
-![カイちゃん1](imgs\kai_001.jpg)
-![カイちゃん2](imgs\kai_002.jpg)
+![カイちゃん1](./imgs/kai_001.jpg)
+![カイちゃん2](./imgs/kai_002.jpg)
 
 # リンク
 [Twitter検索クエリ](https://twitter.com/search?q=from%3A%40kainoika8%20%E3%82%AB%E3%82%A4%E3%81%A1%E3%82%83%E3%82%93&src=typed_query)
